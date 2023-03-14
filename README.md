@@ -20,7 +20,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/ViniciusBussolo1/Bora_Codar_Calculadora.git
+$ git clone https://github.com/ViniciusBussolo1/Bora_Codar_Desafio_5.git
 $ cd Calculadora
 ```
 
@@ -33,4 +33,4 @@ $ npm install
 $ npm run dev
 ```
 
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+O app estará disponível no seu browser pelo endereço http://localhost:5173/.
