@@ -21,7 +21,7 @@ Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
 $ git clone https://github.com/ViniciusBussolo1/Bora_Codar_Desafio_5.git
-$ cd Calculadora
+$ cd Bora_Codar_Desafio_5
 ```
 
 Para iniciá-lo, siga os passos abaixo:
